@@ -1,2 +1,2 @@
 # ImageResource
-A collection of images I use for things like wallpapers and mods
+A collection of images I use for personal things like wallpapers and mods
